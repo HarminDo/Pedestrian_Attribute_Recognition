@@ -36,7 +36,8 @@ IJCV: International Journal of Computer Vision</br>
 链接：https://drive.google.com/drive/folders/0B5_Ra3JsEOyOUlhKM0VPZ1ZWR2M </br>
       https://pan.baidu.com/s/1l-5a__OTwZVkhm_A16HraQ#list/path=%2F </br>
 
-### 行人属性识别相关论文
+## 行人属性识别相关论文
+### SCI收录
 #### Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios
 年份：2015 </br>
 会议：3rd IAPR Asian Conference on Pattern Recognition (ACPR)</br>
@@ -49,13 +50,13 @@ IJCV: International Journal of Computer Vision</br>
 机构：Queen Mary University of London & Vision Semantics Ltd </br>
 网络：Joint Recurrent Learning (JRL) model </br>
 </br>
-#### DEEP PEDESTRIAN ATTRIBUTE RECOGNITION BASED ON LSTM
+#### Deep pedestrian attribute recognition based on LSTM
 年份：2017 </br>
 会议：24th IEEE International Conference on Image Processing (ICIP) </br>
 机构：天津大学 </br>
 网络：based on CNN and LSTM </br>
 </br>
-#### HIERARCHICAL PEDESTRIAN ATTRIBUTE RECOGNITION BASED ON ADAPTIVE REGION LOCALIZATION
+#### Hierarchical pedestrian attribute recognition based on adaptive region localization
 年份： </br>
 会议：24th IEEE International Conference on Image Processing (ICIP) </br>
 机构： </br>
@@ -71,3 +72,4 @@ IJCV: International Journal of Computer Vision</br>
 会议： </br>
 机构： </br>
 网络： </br>
+### arXin
