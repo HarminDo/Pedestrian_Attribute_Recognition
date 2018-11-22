@@ -43,6 +43,7 @@ IJCV: International Journal of Computer Vision</br>
 会议：3rd IAPR Asian Conference on Pattern Recognition (ACPR)</br>
 机构：中国科学院.自动化研究所.模式识别国家重点实验室</br>
 网络：DeepSAR DeepMAR</br>
+笔记：https://blog.csdn.net/youshiwukong1524/article/details/83827533 </br>
 </br>
 #### Attribute Recognition by Joint Recurrent Learning of Context and Correlation
 年份：2017 </br>
