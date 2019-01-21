@@ -45,6 +45,12 @@ IJCV: International Journal of Computer Vision</br>
 网络：DeepSAR DeepMAR</br>
 笔记：https://blog.csdn.net/youshiwukong1524/article/details/83827533 </br>
 </br>
+#### Weakly-supervised Learning of Mid-level Features for Pedestrian Attribute Recognition and Localization
+年份：2017 </br>
+会议：The British Machine Vision Conference (BMVC)</br>
+机构：北京航空航空大学 & 中国科学院</br>
+网络：WPAL-Net</br>
+</br>
 #### Attribute Recognition by Joint Recurrent Learning of Context and Correlation
 年份：2017 </br>
 会议：16th IEEE International Conference on Computer Vision (ICCV) </br>
